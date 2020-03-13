@@ -1,0 +1,36 @@
+d:\documentos\visual studio 2013\Projects\WMI\WMI\bin\Debug\WMI.exe.config
+d:\documentos\visual studio 2013\Projects\WMI\WMI\bin\Debug\WMI.exe
+d:\documentos\visual studio 2013\Projects\WMI\WMI\bin\Debug\WMI.pdb
+d:\documentos\visual studio 2013\Projects\WMI\WMI\obj\Debug\WMI.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2013\Projects\WMI\WMI\obj\Debug\WMI.Properties.Resources.resources
+d:\documentos\visual studio 2013\Projects\WMI\WMI\obj\Debug\WMI.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2013\Projects\WMI\WMI\obj\Debug\WMI.exe
+d:\documentos\visual studio 2013\Projects\WMI\WMI\obj\Debug\WMI.pdb
+d:\documentos\visual studio 2013\Projects\WMI\WMI\obj\Debug\WMI.Form1.resources
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\bin\Debug\WMI.exe.config
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\obj\Debug\WMI.exe
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\obj\Debug\WMI.pdb
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\bin\Debug\WMI.exe
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\bin\Debug\WMI.pdb
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\obj\Debug\WMI.csprojResolveAssemblyReference.cache
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\obj\Debug\WMI.Form1.resources
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\obj\Debug\WMI.Properties.Resources.resources
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI\WMI\obj\Debug\WMI.csproj.GenerateResource.Cache
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\bin\Debug\WMI.exe.config
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.exe
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.pdb
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.csprojResolveAssemblyReference.cache
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.Form1.resources
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.Properties.Resources.resources
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.csproj.GenerateResource.Cache
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\bin\Debug\WMI.exe
+C:\Users\web\Documents\Visual Studio 2013\Projects\WMI 2\WMI\bin\Debug\WMI.pdb
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\bin\Debug\WMI.exe.config
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.exe
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.pdb
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\bin\Debug\WMI.exe
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\bin\Debug\WMI.pdb
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.Form1.resources
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.Properties.Resources.resources
+D:\Documentos\Visual Studio 2013\Projects\WMI 2\WMI\obj\Debug\WMI.csproj.GenerateResource.Cache
